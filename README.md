@@ -18,3 +18,5 @@ Now for realziesss
 asdasdasd
 asdasdasdasdasdas
 sadasdasd
+
+This change has been added in the working directory, but not staging area
