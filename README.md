@@ -20,3 +20,7 @@ asdasdasdasdasdas
 sadasdasd
 
 This change has been added in the working directory, but not staging area
+
+###cOPYRIGHT
+ASDASDASDASDAS
+CUCOOOOOO
