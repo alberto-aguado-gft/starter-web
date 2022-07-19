@@ -12,7 +12,9 @@ Hail to yeehaw
 #Even more diff material
 asdasdasdasdas
 
+##How to contribute
 
+Please fork thus repository and then issue Pull Requests for review.
 
 Now for realziesss
 asdasdasd
