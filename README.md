@@ -19,7 +19,7 @@ Please fork thus repository and then issue Pull Requests for review.
 Now for realziesss
 asdasdasd
 asdasdasdasdasdas
-sadasdasd. Adding a line for rebasing example.
+sadasdasd. Adding a line for rebasing example, then more changes from myfeature branch too.
 
 This change has been added in the working directory, but not staging area
 
